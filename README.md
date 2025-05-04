@@ -2,6 +2,10 @@
 
 Another idea for a CSS stylesheet repository for a creative, marketing agency. 
 
+## Preview
+
+<img src='/code/img/preview_project.png'>
+
 ## Features
 
 - **Modern Layouts**: Utilizes Flex for flexible and efficient layout management.
@@ -49,6 +53,10 @@ All contributions are always welcome to improve stylesheet. To contribute please
 # creative-agency-css ✔️ 
 
 Otra idea con un repositorio de hojas de estilo CSS para una agencia creative o de marketing. 
+
+## Vista previa
+
+<img src='/code/img/preview_project.png'>
 
 ## Características
 
